@@ -1,0 +1,8 @@
+[alias]
+    ci = commit
+    st = status
+[user]
+	name = Helen Shin
+	email = hshin@thoughtworks.com
+[color]
+	ui = true
